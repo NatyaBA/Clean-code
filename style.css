@@ -34,8 +34,7 @@ body {
   margin: 0 auto 0;
 }
 
-.main-page__task,
-.incomplete-tasks_task {
+.incomplete-tasks__task {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
